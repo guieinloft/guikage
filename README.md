@@ -11,3 +11,4 @@
   Facebook: Guilherme Einloft <br>
   Instagram: guiwakeman <br>
   E-mail: guieinlo@gmail.com
+- Pronomes: ele/dele
