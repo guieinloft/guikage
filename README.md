@@ -15,4 +15,7 @@
     Facebook: Guilherme Einloft <br>
     Instagram: guiwakeman <br>
     E-mail: guieinlo@gmail.com
-- Pronomes: ele/dele
+- Pronomes: ele/dele<br>
+<br>
+<b>O tempo cura as feridas que ninguém pode ver</b><br>
+~Todd Rundgren
