@@ -1,4 +1,4 @@
-### Hello it's me 👋
+# Hello it's me 👋
 
 - Qual é meu curso? 👨🏻‍🎓<br>
     2º Ano - Informática para Internet - CTISM - UFSM<br>
