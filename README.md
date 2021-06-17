@@ -8,8 +8,8 @@
     - Python 🐍
     - HTML, CSS, JS 🌐
 ### O que eu faço no meu tempo livre? ⏳
-    - Música 🎶<br>
-    - Games 🎮<br>
+    - Música 🎶
+    - Games 🎮
     - Tocar Teclado 🎹
 ### Como me achar? 🔍
     - Facebook📘: Guilherme Einloft
