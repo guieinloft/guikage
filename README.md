@@ -12,9 +12,9 @@
     Games 🎮<br>
     Tocar Teclado 🎹<br>
 - Como me achar? 🔭<br>
-    Facebook: Guilherme Einloft <br>
-    Instagram: guiwakeman <br>
-    E-mail: guieinlo@gmail.com
+    Facebook📘: Guilherme Einloft <br>
+    Instagram📷: guiwakeman <br>
+    E-mail✉: guieinlo@gmail.com
 - Pronomes: ele/dele<br>
 <br>
 <b>O tempo cura as feridas que ninguém pode ver</b><br>
