@@ -11,7 +11,7 @@
     Música 🎶<br>
     Games 🎮<br>
     Tocar Teclado 🎹<br>
-- Como me achar? 🔭<br>
+- Como me achar? 🔍<br>
     Facebook📘: Guilherme Einloft <br>
     Instagram📷: guiwakeman <br>
     E-mail✉: guieinlo@gmail.com
