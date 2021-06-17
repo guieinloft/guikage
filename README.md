@@ -1,7 +1,7 @@
 ### Hello it's me 👋
 
 - Qual é meu curso? 👨🏻‍🎓<br>
-    2º Informática para Internet - CTISM - UFSM<br>
+    2º Ano - Informática para Internet - CTISM - UFSM<br>
 - Quais são as minhas linguagens de programação? ⌨<br>
     C 👓<br>
     C# (Unity) 🎮<br>
