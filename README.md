@@ -17,6 +17,6 @@
     - E-mail✉: guieinlo@gmail.com
 ### Pronomes:
     ele/dele
-<br>
-<b>O tempo cura as feridas que ninguém pode ver</b><br>
-~Todd Rundgren
+
+
+##Bazinga
