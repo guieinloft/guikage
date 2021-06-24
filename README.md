@@ -17,4 +17,7 @@
     - E-mail✉: guieinlo@gmail.com
 ### Pronomes:
     ele/dele
-###Bazinga
+
+
+
+<b>Bazinga<b>
