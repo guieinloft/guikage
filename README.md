@@ -1,5 +1,4 @@
 # Hello it's me 👋
-<br>
 
 ### Qual é meu curso? 👨🏻‍🎓
 2º Ano - Informática para Internet - CTISM - UFSM
@@ -27,12 +26,12 @@
 ### Pronomes:
 ele/dele
 <br>
+<br>
 <b>"Muitos falam, poucos sabem"</b> -Gui Azevedo
 <br>
 
-*NOW IN ENGLISH*
+**NOW IN ENGLISH**
 # Hello it's me 👋
-<br>
 
 ### What is my course? 👨🏻‍🎓
 Sophomore - Web-based Computing - CTISM - UFSM
@@ -59,5 +58,6 @@ Sophomore - Web-based Computing - CTISM - UFSM
 
 ### Pronouns:
 he/him
+<br>
 <br>
 <b>"I don't know, maybe I'm autistic or something"</b> -Linus Torvalds
