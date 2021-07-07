@@ -1,7 +1,7 @@
-# Hello it's me 👋
+# Portuguese 🇧🇷
 
 ### Qual é meu curso? 👨🏻‍🎓
-2º Ano - Informática para Internet - CTISM - UFSM
+- 2º Ano - Informática para Internet - CTISM - UFSM
 <br>
 
 ### Quais linguagens de programação eu sei? ⌨
@@ -30,11 +30,10 @@ ele/dele
 <b>"A maioria dos bons programadores programam não porque eles esperam ser pagos ou receber adulação do público, mas porque é diverido programar."</b> -Linus Torvalds
 <br>
 
-**NOW IN ENGLISH**
-# Hello it's me 👋
+# English 🇬🇧
 
 ### What is my course? 👨🏻‍🎓
-Sophomore - Web-based Computing - CTISM - UFSM
+- Sophomore - Web-based Computing - CTISM - UFSM
 <br>
 
 ### What programming languages do I know? ⌨
