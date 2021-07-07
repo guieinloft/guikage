@@ -1,7 +1,7 @@
 # Portuguese 🇧🇷
 
 ### Qual é meu curso? 👨🏻‍🎓
-- 2º Ano - Informática para Internet - CTISM - UFSM
+- 2º Ano - Informática para Internet (Curso Técnico) - CTISM - UFSM
 <br>
 
 ### Quais linguagens de programação eu sei? ⌨
@@ -33,7 +33,7 @@ ele/dele
 # English 🇬🇧
 
 ### What is my course? 👨🏻‍🎓
-- Sophomore - Web-based Computing - CTISM - UFSM
+- Second Year - Web Development (Associate Degree) - CTISM - UFSM
 <br>
 
 ### What programming languages do I know? ⌨
