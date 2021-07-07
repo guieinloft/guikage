@@ -27,7 +27,7 @@
 ele/dele
 <br>
 <br>
-<b>"Muitos falam, poucos sabem"</b> -Gui Azevedo
+<b>"A maioria dos bons programadores programam não porque eles esperam ser pagos ou receber adulação do público, mas porque é diverido programar."</b> -Linus Torvalds
 <br>
 
 **NOW IN ENGLISH**
@@ -60,4 +60,4 @@ Sophomore - Web-based Computing - CTISM - UFSM
 he/him
 <br>
 <br>
-<b>"I don't know, maybe I'm autistic or something"</b> -Linus Torvalds
+<b>"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it's fun to program."</b> -Linus Torvalds
