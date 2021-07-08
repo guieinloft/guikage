@@ -1,4 +1,4 @@
-# Portuguese 🇧🇷
+# Português 🇧🇷
 
 ### Qual é meu curso? 👨🏻‍🎓
 - 2º Ano - Informática para Internet (Curso Técnico) - CTISM - UFSM
@@ -24,10 +24,11 @@
 <br>
 
 ### Pronomes:
-ele/dele
+- ele/dele
 <br>
-<br>
-<b>"A maioria dos bons programadores programam não porque eles esperam ser pagos ou receber adulação do público, mas porque é diverido programar."</b> -Linus Torvalds
+
+####"A maioria dos bons programadores programam não porque eles esperam ser pagos ou receber adulação do público, mas porque é diverido programar."
+-Linus Torvalds
 <br>
 
 # English 🇬🇧
@@ -56,7 +57,8 @@ ele/dele
 <br>
 
 ### Pronouns:
-he/him
+- he/him
 <br>
-<br>
-<b>"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it's fun to program."</b> -Linus Torvalds
+
+####"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it's fun to program."
+-Linus Torvalds
