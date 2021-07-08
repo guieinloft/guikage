@@ -27,7 +27,7 @@
 - ele/dele
 <br>
 
-#### "A maioria dos bons programadores programam não porque eles esperam ser pagos ou receber adulação do público, mas porque é diverido programar."
+<b>"A maioria dos bons programadores programam não porque eles esperam ser pagos ou receber adulação do público, mas porque é diverido programar."</b><br>
 -Linus Torvalds
 <br>
 
@@ -60,5 +60,5 @@
 - he/him
 <br>
 
-#### "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it's fun to program."
+<b>"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it's fun to program."</b><br>
 -Linus Torvalds
