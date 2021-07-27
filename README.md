@@ -18,8 +18,6 @@
 <br>
 
 ### Como me achar? 🔍
-- Facebook📘: [Guilherme Einloft](https://www.facebook.com/guieinlo/)
-- Instagram📷: [@guiwakeman](https://www.instagram.com/guiwakeman/)
 - E-mail✉: guieinloft@pm.me
 <br>
 
