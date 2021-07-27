@@ -49,9 +49,7 @@
 <br>
 
 ### Where can you find me? 🔍
-- Facebook📘: [Guilherme Einloft](https://www.facebook.com/guieinlo/)
-- Instagram📷: [@guiwakeman](https://www.instagram.com/guiwakeman/)
-- E-mail✉: guieinlo@gmail.com
+- E-mail✉: guieinloft@pm.me
 <br>
 
 ### Pronouns:
