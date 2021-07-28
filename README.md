@@ -8,6 +8,7 @@
 - C 👓
 - C# (Unity) & GDScript (Godot) 🎮
 - Python 🐍
+- Java ☕
 - HTML, CSS, JS 🌐
 <br>
 
@@ -39,6 +40,7 @@
 - C 👓
 - C# (Unity) & GDScript (Godot) 🎮
 - Python 🐍
+- Java ☕
 - HTML, CSS, JS 🌐
 <br>
 
