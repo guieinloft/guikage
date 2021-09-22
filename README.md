@@ -47,7 +47,7 @@
 ### What do I do in my spare time? ⏳
 - Music 🎶
 - Games 🎮
-- Play Keyboard 🎹
+- Play the Keyboard 🎹
 <br>
 
 ### Where can you find me? 🔍
