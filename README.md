@@ -33,7 +33,7 @@
 # English 🇬🇧
 
 ### What is my course? 👨🏻‍🎓
-- Second Year - Web Development (Associate Degree) - CTISM - UFSM
+- Second Year - Technical Degree in Web Computing - CTISM - UFSM
 <br>
 
 ### What programming languages do I know? ⌨
