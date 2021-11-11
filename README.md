@@ -1,6 +1,6 @@
 # Português 🇧🇷
 
-### Qual é meu curso? 👨🏻‍🎓
+### Qual é meu curso? 🎓
 - 2º Ano - Informática para Internet (Curso Técnico) - CTISM - UFSM
 <br>
 
@@ -32,7 +32,7 @@
 
 # English 🇬🇧
 
-### What is my course? 👨🏻‍🎓
+### What is my course? 🎓
 - Second Year - Technical Degree in Web Computing - CTISM - UFSM
 <br>
 
