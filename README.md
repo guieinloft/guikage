@@ -22,7 +22,7 @@ int main(){
 - <b>Programming Languages:</b> C, Python, HTML/CSS, JavaScript, SQL, GDScript, C#, C++;
 
 ### Contact ✉️:
-- <b>E-mail:</b> guieinloft@protonmail.com
+- <b>E-mail:</b> guieinloft@proton.me
 - <b>Linkedin:</b> [Guilherme Einloft](https://www.linkedin.com/in/guilherme-einloft-586615215);
 - <b>Instagram:</b> [@guiwakeman](instagram.com/guiwakeman);
 ```c
