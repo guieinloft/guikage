@@ -5,7 +5,7 @@ int main(){
 ## Hello It's Me
 
 ### Personal Info 🙋:
-- <b>Age:</b> 16yo;
+- <b>Age:</b> 17yo;
 - <b>Birthday:</b> 2005-06-02;
 - <b>Country:</b> Brazil;
 - <b>City:</b> Santa Maria - RS;
