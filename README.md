@@ -11,8 +11,10 @@ int main(){
 - <b>City:</b> Santa Maria - RS;
 
 ### Professional and Academic Info 🎓:
-- <b>Ongoing course:</b> Informática para Internet - CTISM/UFSM (2/3);
-- <b>Current job:</b> IT Support at Prefeitura de Santa Maria;
+- <b>Ongoing course:</b> Informática para Internet - CTISM/UFSM (3/3);
+- <b>Current job:</b> Unemployed;
+- <b>Past jobs:</b>
+	- IT Support at Prefeitura de Santa Maria;
 
 ### Hardware and software 🖱️:
 - <b>Hardware:</b> Acer Aspire Nitro 5 AN515-55-50JB;
