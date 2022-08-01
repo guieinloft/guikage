@@ -17,14 +17,18 @@ int main(){
 ### Hardware and software 🖱️:
 - <b>Hardware:</b> Acer Aspire Nitro 5 AN515-55-50JB;
 - <b>OS:</b> Arch Linux + i3;
-- <b>Text Editor:</b> Vi Improved;
-- <b>Browser and search engine:</b> Brave and Searx;
+- <b>Text Editor:</b> Neovim;
+- <b>Browser and search engine:</b> Brave and DuckDuckGo;
 - <b>Programming Languages:</b> C, Python, HTML/CSS, JavaScript, SQL, GDScript, C#, C++;
 
 ### Contact ✉️:
 - <b>E-mail:</b> guieinloft@proton.me
 - <b>Linkedin:</b> [Guilherme Einloft](https://www.linkedin.com/in/guilherme-einloft-586615215);
 - <b>Instagram:</b> [@guiwakeman](instagram.com/guiwakeman);
+
+#### "An idiot admires complexity, a genius admires simplicity."
+~Terry Davis
+
 ```c
    return 0;
 }
