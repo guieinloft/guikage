@@ -21,7 +21,15 @@ int main(){
 - <b>OS:</b> Arch Linux + i3;
 - <b>Text Editor:</b> Neovim;
 - <b>Browser and search engine:</b> Brave and DuckDuckGo;
-- <b>Programming Languages:</b> C, Python, HTML/CSS, JavaScript, SQL, GDScript, C#, C++;
+- <b>Programming Languages:</b>
+	- C;
+	- Python;
+	- C++;
+	- Java;
+	- HTML, CSS, JavaScript;
+	- C#;
+	- GDScript;
+	- SQL;
 
 ### Contact ✉️:
 - <b>E-mail:</b> guieinloft@proton.me
