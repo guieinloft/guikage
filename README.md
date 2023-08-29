@@ -6,14 +6,15 @@ int main(){
 }
 ```
 ### Personal Info 🙋:
-- <b>Age:</b> 17yo;
+- <b>Age:</b> 18yo;
 - <b>Birthday:</b> 2005-06-02;
 - <b>Country:</b> Brazil;
 - <b>City:</b> Santa Maria - RS;
 
 ### Professional and Academic Info 🎓:
-- <b>Ongoing course:</b> Informática para Internet - CTISM/UFSM (3/3);
-- <b>Current job:</b> Unemployed;
+- <b>Ongoing course:</b> Computer Science at UFSM (Santa Maria - RS, Brazil);
+- <b>Past education:</b> Computing for Internet at CTISM (Santa Maria - RS, Brazil);
+- <b>Current job:</b> -
 - <b>Past jobs:</b>
 	- IT Support at Prefeitura de Santa Maria;
 
@@ -39,11 +40,10 @@ int main(){
 ![CSS](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 
-### Contact ✉️:
-[![E-mail]()]
-- <b>E-mail:</b> guieinloft@proton.me
-- <b>Linkedin:</b> [Guilherme Einloft](https://www.linkedin.com/in/guilherme-einloft-586615215);
-- <b>Instagram:</b> [@guiwakeman](instagram.com/guiwakeman);
+### E-mails:
+- <b>Skiff:</b> guieinloft@skiff.com
+- <b>Protonmail:</b> guieinloft@proton.me
+- <b>Google</b> (if you really want to use a bad e-mail service): guieinlo@gmail.com
 
 #### "An idiot admires complexity, a genius admires simplicity."
 ~Terry Davis
