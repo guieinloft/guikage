@@ -22,7 +22,6 @@ int main(){
 ![Acer Aspire Nitro](https://img.shields.io/badge/-aspire%20nitro-red?style=for-the-badge&logo=acer&logoColor=white)
 
 ![Arch Linux](https://img.shields.io/badge/-arch%20linux-blue?style=for-the-badge&logo=arch-linux&logoColor=white)
-
 ![Neovim](https://img.shields.io/badge/-neovim-darkgreen?style=for-the-badge&logo=neovim&logoColor=white)
 
 ![Firefox](https://img.shields.io/badge/-firefox-orange?style=for-the-badge&logo=firefox-browser&logoColor=white)
@@ -33,7 +32,6 @@ int main(){
 ![C++](https://img.shields.io/badge/-c++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ![Python](https://img.shields.io/badge/-python-yellow?style=for-the-badge&logo=python&logoColor=white)
-
 ![Java](https://img.shields.io/badge/-java-orange?style=for-the-badge&logo=coffeescript&logoColor=white)
 
 ![HTML](https://img.shields.io/badge/-html-orange?style=for-the-badge&logo=html5&logoColor=white)
